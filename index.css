@@ -1,0 +1,33 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+label{
+    padding: 1rem;
+    font-size: large;
+    font-weight: 700;
+}
+
+button{
+    padding: 1rem 2rem;
+    margin: 1rem;
+    font-size: medium;
+    background-color: purple;
+    color: white;
+    border: none;
+    font-weight: 600;
+
+}
+
+input{
+    width: 15%;
+}
+
+#output-box{
+    font-size: large;
+    font-weight: 700;
+    margin: 2rem;
+}
